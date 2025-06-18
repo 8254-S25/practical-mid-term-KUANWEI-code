@@ -1,0 +1,19 @@
+total 68
+drwxr-xr-x 2 pi pi 4096 May 13 01:14 Bookshelf
+drwxr-xr-x 2 pi pi 4096 May 13 01:22 Desktop
+drwxr-xr-x 2 pi pi 4096 May 13 01:22 Documents
+drwxr-xr-x 2 pi pi 4096 May 13 01:22 Downloads
+-rwx-----x 1 pi pi   17 Jun 18 17:51 kuanwei.txt
+drwxr-xr-x 2 pi pi 4096 Jun 18 17:57 midtermExam-301
+-rw-r--r-- 1 pi pi   17 Jun 18 18:04 midtermpi.txt
+-rw-r--r-- 1 pi pi    9 Jun 18 18:06 mt.txt
+drwxr-xr-x 2 pi pi 4096 May 13 01:22 Music
+drwxr-xr-x 2 pi pi 4096 May 13 01:22 Pictures
+-rw-r--r-- 1 pi pi  513 Jun 18 17:53 pr1.txt
+-rw-r--r-- 1 pi pi  614 Jun 18 17:59 pr2.txt
+-rw-r--r-- 1 pi pi  225 Jun 18 18:11 pr3.txt
+-rw-r--r-- 1 pi pi    0 Jun 18 18:38 pr4.txt
+-rw-r--r-- 1 pi pi  386 Jun 18 18:06 pr.txt
+drwxr-xr-x 2 pi pi 4096 May 13 01:22 Public
+drwxr-xr-x 2 pi pi 4096 May 13 01:22 Templates
+drwxr-xr-x 2 pi pi 4096 May 13 01:22 Videos
