@@ -1,0 +1,5 @@
+total 16
+4 drwxr-xr-x  4 root    root    4096 Jun 18 18:08 .
+4 drwxr-xr-x 18 root    root    4096 May 13 01:21 ..
+4 drwxr-xr-x  2 kuanwei kuanwei 4096 Jun 18 18:08 kuanwei
+4 drwx------ 16 pi      pi      4096 Jun 18 18:11 pi
